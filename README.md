@@ -36,11 +36,11 @@ For online food delivery, there are two local websites: foodbyweb.com.hk and dia
  
 For larger F&B enterprises, such as Itamae Sushi and Genki Sushi, they already have a complete dine-in food ordering system connected with their POS. They also invested big to have these specially designed solutions which are definitely unaffordable to F&B startups. That is the market niche of Bill Easy. We can provide this affordable generalised solutions to F&B startups. 
 
-At this time, there are no obvious competitors in the market but only a similar one called web- on (asia) Ltd, with website hdp://www.web-on.com, can be highlighted here for exploration. Actually, it is a tailor-made solution provider and got a number of renowned clients. It provides online take-away ordering solutions and back-end supports for KFC , PizzaHut and PHD. Surely, their targeted clients can offer 6-digits development cost. Obviously, startups are not their cup of tea. Moreover, it does not provide native mobile take-away / dine-in order submissions and mobile CRM yet, so Bill Easy has a lot of rooms to explore in this extent.
+At this time, there are no obvious competitors in the market but only a similar one called web- on (asia) Ltd, with website http://www.web-on.com, can be highlighted here for exploration. Actually, it is a tailor-made solution provider and got a number of renowned clients. It provides online take-away ordering solutions and back-end supports for KFC , PizzaHut and PHD. Surely, their targeted clients can offer 6-digits development cost. Obviously, startups are not their cup of tea. Moreover, it does not provide native mobile take-away / dine-in order submissions and mobile CRM yet, so Bill Easy has a lot of rooms to explore in this extent.
 
 ![alt text](https://github.com/qbill-system/BillEasy/blob/master/images/swot.png "Prototype ready")
 
-## MarkeAng Strategy
+## Marketing Strategy
 
 At the very beginning, we will select a group of potential restaurant clients / startups. For the first year, we will support 10-100 of them to have a free trial in Bill Easy. The purpose is to accumulate success stories, so it will be a strong fact to convince the other targeted restaurants to believe our low-investment-high-profit rationale and invest on us. 
 
@@ -63,6 +63,8 @@ A prototype of QR Code scanning on mobile app is complete and the connection wit
 ## Project Development Support
 
 The team is now seeking for financial support to contribute the project development. All contributors will be granted a permanent license of using Bill Easy Private. For Bill Easy Cloud, the length of granted period will be calculated upon the amount of tribute of the individual contributor accordingly. 
+
+For any further details / enquires about project, you are welcome to contact us at billeasy18@gmail.com.
 
 [![IMAGE ALT TEXT](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_150x38.png)](https://www.paypal.me/billeasy "Contribute")
 
