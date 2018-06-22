@@ -60,6 +60,8 @@ A prototype of QR Code scanning on mobile app is complete and the connection wit
 
 ![alt text](https://github.com/qbill-system/BillEasy/blob/master/images/snap.png "Prototype ready")
 
+Most of fund raised will be constributed to the purchases of hardware required and system enhancement of the current prototype. 
+
 ## Project Development Support
 
 The team is now seeking for financial support to contribute the project development. All contributors will be granted a permanent license of using Bill Easy Private. For Bill Easy Cloud, the length of granted period will be calculated upon the amount of tribute of the individual contributor accordingly. 
