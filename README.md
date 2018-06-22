@@ -38,7 +38,7 @@ For larger F&B enterprises, such as Itamae Sushi and Genki Sushi, they already h
 
 At this time, there are no obvious competitors in the market but only a similar one called web- on (asia) Ltd, with website http://www.web-on.com, can be highlighted here for exploration. Actually, it is a tailor-made solution provider and got a number of renowned clients. It provides online take-away ordering solutions and back-end supports for KFC , PizzaHut and PHD. Surely, their targeted clients can offer 6-digits development cost. Obviously, startups are not their cup of tea. Moreover, it does not provide native mobile take-away / dine-in order submissions and mobile CRM yet, so Bill Easy has a lot of rooms to explore in this extent.
 
-![alt text](https://github.com/qbill-system/BillEasy/blob/master/images/swot.png "Prototype ready")
+![alt text](https://github.com/billeasy/pos/blob/master/images/swot.png "Prototype ready")
 
 ## Marketing Strategy
 
@@ -58,7 +58,7 @@ There are at least four channels to distribute Bill Easy: direct mails, banner a
 
 A prototype of QR Code scanning on mobile app is complete and the connection with the online database hosted in Amazon Cloud is fully functional. The printer can now print out the orders upon the online database. A full demonstration of ordering pipeline is ready.
 
-![alt text](https://github.com/qbill-system/BillEasy/blob/master/images/snap.png "Prototype ready")
+![alt text](https://github.com/billeasy/pos/blob/master/images/snap.png "Prototype ready")
 
 Most of fund raised will be constributed to the purchases of hardware required and system enhancement of the current prototype. 
 
@@ -67,7 +67,6 @@ Most of fund raised will be constributed to the purchases of hardware required a
 The team is now seeking for financial support to contribute the project development. All contributors will be granted a permanent license of using Bill Easy Private. For Bill Easy Cloud, the length of granted period will be calculated upon the amount of tribute of the individual contributor accordingly. 
 
 For any further details / enquires about project, you are welcome to contact us at billeasy18@gmail.com.
-
 
 [![IMAGE ALT TEXT](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_150x38.png)](https://www.paypal.me/billeasy "Contribute")
 
