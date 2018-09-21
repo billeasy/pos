@@ -62,13 +62,33 @@ A prototype of QR Code scanning on mobile app is complete and the connection wit
 
 Most of fund raised will be constributed to the purchases of hardware required and system enhancement of the current prototype. 
 
-## Project Development Support (temporarily paused due to problems created by PayPal)
+## Project Development Support
 
 The team is now seeking for financial support to contribute the project development. All contributors will be granted a permanent license of using Bill Easy Private. For Bill Easy Cloud, the length of granted period will be calculated upon the amount of tribute of the individual contributor accordingly. 
 
 For any further details / enquires about project, you are welcome to contact us at billeasy18@gmail.com.
 
-[![IMAGE ALT TEXT](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_150x38.png)](https://www.paypal.me/billeasy "Contribute")
+We are sticking with WHOIS staking for all constributions, so you are welcome to contribute by acquiring the following domains:
 
-Please specify "Tritube to Bill Easy Project" as the note for the transaction.
+eth888.club
+asianslot.win
+crypto2.win
+omgslot.win
+cryptosure.win
+eth666.win
+btc666.win
+crypto666.win
+asiaslot.win
+codingwith.fun
+learneng.fun
+learngolf.fun
+workwith.fun
+feedpets.fun
+feedpet.fun
+funslot.win
+stanleyho.win
+
+Your contribution will be recognized by the information in WHOIS of the domain and the amount you acquired it. You are welcome to get them from marketplace at https://www.namesilo.com/Marketplace.
+
+
 
